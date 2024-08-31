@@ -1,6 +1,6 @@
-# Educational Counsellor Chatbot
+# Educational Counselling Platform for School Students aspring for Higher Education
 
-This repository contains the implementation of an Educational Counsellor Chatbot designed to interact with students, collect their responses, and securely process and analyze the data using differential privacy techniques.
+This repository contains the implementation which generates education pathways by interacting with students, collect their responses, and securely process and analyze the data using differential privacy techniques.
 
 ## Architecture
 
@@ -8,7 +8,7 @@ This repository contains the implementation of an Educational Counsellor Chatbot
 
 ## Overview
 
-The Educational Counsellor Chatbot follows the below process flow:
+The platform follows the below process flow:
 
 1. **User Interaction**: The chatbot interacts with students, asking questions and collecting their responses.
 2. **Data Collection**: The responses from students are collected for further processing.
@@ -33,8 +33,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/educational-counsellor-chatbot.git
-   cd educational-counsellor-chatbot
+   git clone https://github.com/adytiaa/naavi_os
+   
 
 2. Install the required dependencies:
    ```bash
@@ -47,7 +47,7 @@ To set up the project, follow these steps:
 
 ## Usage
 
-The Educational Counsellor Chatbot can be used as follows:
+The process:
 
 1. **Start the Chatbot**: Begin by starting the chatbot and interacting with it through the frontend interface.
 2. **Questionnaire**: The chatbot will ask a series of questions and collect your responses.
